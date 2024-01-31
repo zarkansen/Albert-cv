@@ -195,8 +195,6 @@ export default function Page() {
               <li><Link href="#">Projects</Link></li>
               </ul><p>©2024 Albert Marvell | All Rights Reserved</p>
       </footer>
-      <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
-<script noModule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
     </main>
   );
 }
