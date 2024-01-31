@@ -1,18 +1,14 @@
  "use client";
 
 import { TypeAnimation } from 'react-type-animation';
-import styles from '@/app/ui/home.module.css';
 import AcmeLogo from '@/app/ui/acme-logo';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import { lusitana } from '@/app/ui/fonts';
 import '@/app/ui/global.css';
 import  Image from 'next/image';
-import { ChevronDownIcon } from '@heroicons/react/20/solid'
 import React from 'react';
 import IonIcon from '@reacticons/ionicons';
-import Document from 'next/document';
-
 export default function Page() {
   return (
     //nav
