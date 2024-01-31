@@ -30,7 +30,7 @@ export default function Page() {
       {/* animasi typing */}
       <div className="col-span-7 place-self-center pt-6 space-x-2 ">
           <span className="text-black font-extrabold mb-4 text-tranparent bg-clip-text text-3xl ">
-            Heyho!, I'm {""}
+            Heyho!, I am {""}
           </span>
           <h1 className="text-orange-500 mb-4 text-xl" style={{fontFamily: 'Akira Expanded, sans-serif'}}>
             <TypeAnimation

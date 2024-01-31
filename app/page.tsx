@@ -61,7 +61,7 @@ export default function Page() {
              My Digital space<ArrowRightIcon className="w-5 md:w-6" />
             </a>
           </p>
-          <h1 className="text-gray-500 flex items-center opacity-60">   Welcome to the corner of the internet! I'm Albert, A passionate Software Engineer Apprentice based in Indonesia. Here's a glimpse into who I am and what drives me</h1> 
+          <h1 className="text-gray-500 flex items-center opacity-60">   Welcome to the corner of the internet! I am Albert, A passionate Software Engineer Apprentice based in Indonesia. Here is a glimpse into who I am and what drives me</h1> 
           {/* page about */}
           <Link
             href="#tentang"
@@ -116,7 +116,7 @@ export default function Page() {
       {/*TYPING ANIMATION */}
       <div className="col-span-7 place-self-center pt-6 space-x-2 bg-black">
           <span className="text-white font-extrabold mb-5 text-tranparent bg-clip-text text-3x">
-            Heyho!, I'm {""}
+            Heyho!, I am {""}
           </span>
   
           <h1 className="text-orange-500 mb-4 text-xl" style={{fontFamily: 'Akira Expanded, sans-serif'}}>
@@ -135,7 +135,7 @@ export default function Page() {
           </h1>
           {/* DESCRIPTION */}
           <p className="text-[#c2c5c7] text-lg  lg:text-m pb-[20px] text-left">
-          I'm Albert, and this is my digital space where I share my professional journey. As a Software Engineer Apprentice, I've had the chance to work on exciting projects and develop valuable programming skills.
+          I am Albert, and this is my digital space where I share my professional journey. As a Software Engineer Apprentice, I had the chance to work on exciting projects and develop valuable programming skills.
           </p> 
           </div><p className='text-white font-bold ml-[1rem]'>Such as : HTML, CSS, Tailwind CSS, PHP, React, C++ </p>
           <div>
