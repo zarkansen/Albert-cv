@@ -137,7 +137,7 @@ export default function Page() {
           <p className="text-[#c2c5c7] text-lg  lg:text-m pb-[20px] text-left">
           I am Albert, and this is my digital space where I share my professional journey. As a Software Engineer Apprentice, I had the chance to work on exciting projects and develop valuable programming skills.
           </p> 
-          </div><p className='text-white font-bold ml-[1rem]'>Such as : HTML, CSS, Tailwind CSS, PHP, React, C++ </p>
+          </div><p className='text-white font-bold ml-[1rem]'>Such as: HTML, CSS, Tailwind CSS, PHP, React, C++ </p>
           <div>
            
             
