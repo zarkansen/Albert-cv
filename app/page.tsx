@@ -152,7 +152,7 @@ export default function Page() {
                   <h2 className="text-black">C.R.U.D</h2>
                   <p className="text-black">Sebuah aplikasi web yang memungkinkan pengguna untuk melakukan manajemen inventaris ruangan secara efisien.</p>
                     <br />
-                    <Link href="https://drive.google.com/drive/folders/1EVw7Oxtwa5ddKcHrVdh_3sx-W1Lac05T">Explore</Link>
+                    <Link href="https://drive.google.com/drive/folders/1o9d4P7xqAmHn1092EYmlJfp4oxVSPvRM?usp=sharing">Explore</Link>
                   </div> 
                     <img src="/Inventaris Ruangan.png" className="product" />
             </div> 
