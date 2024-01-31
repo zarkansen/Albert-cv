@@ -11,7 +11,7 @@ import  Image from 'next/image';
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
 import React from 'react';
 import IonIcon from '@reacticons/ionicons';
-
+import Document from 'next/document';
 
 export default function Page() {
   return (
